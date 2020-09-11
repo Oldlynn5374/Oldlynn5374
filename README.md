@@ -1,4 +1,12 @@
-### Hi there 👋
+### 自我介绍 
+
+> - **个人介绍**
+>    - 姓名：刘晓霖
+>    - 班级：18级信息安全一班
+>    - 学号：3118005374
+>    - 邮箱：475369943@qq.com
+>    - GitHub：https://github.com/Oldlynn5374
+>    - 兴趣爱好：游戏，电影，乒乓球
 
 <!--
 **Oldlynn5374/Oldlynn5374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
